@@ -26,7 +26,7 @@ This repo contains all Assignments and Projects from the Columbia Engineereing F
 15. [Advanced Solidity]()
 16. [Decentralized Apps]()
 
-## Projects
+## Projects-Portfolio
 1. [Stock Analyzer]()
 2. [Trading using Machine Learning Algorithms]()
 3. []()

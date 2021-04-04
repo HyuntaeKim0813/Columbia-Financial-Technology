@@ -14,7 +14,7 @@ This repo contains all Assignments and Projects from the Columbia Engineereing F
 3. [Pandas](https://github.com/HyuntaeKim0813/03-Python-Pandas.git)
 4. [APIs](https://github.com/HyuntaeKim0813/04-Api.git)
 5. [Data Visualization](https://github.com/HyuntaeKim0813/05-Data-Visualization.git)
-6. [SQL]()
+6. [SQL](https://github.com/HyuntaeKim0813/06-SQL.git)
 7. [Time Series Analysis]()
 8. [Machine Learning]() 
 9. [Natural Language Processing]()

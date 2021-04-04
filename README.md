@@ -9,7 +9,7 @@ This repo contains all Assignments and Projects from the Columbia Engineereing F
 # **Table of Contents**
 
 ## Assignments
-1. [Fintech Case Study]()
+1. [Fintech Case Study](https://github.com/HyuntaeKim0813/Fintech-Case-Study.git)
 2. [Python]() 
 3. [Pandas]()
 4. [APIs]()

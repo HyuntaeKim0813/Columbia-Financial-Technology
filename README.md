@@ -18,7 +18,7 @@ This repo contains all Assignments and Projects from the Columbia Engineereing F
 7. [Time Series Analysis](https://github.com/HyuntaeKim0813/07-Time-Series.git)
 8. [Machine Learning](https://github.com/HyuntaeKim0813/08-Machine-Learning.git) 
 9. [Natural Language Processing](https://github.com/HyuntaeKim0813/09-NLP.git)
-10. [AWX-Lex]()
+10. [AWX-Lex](https://github.com/HyuntaeKim0813/10-AWX-Lex.git)
 11. [Deep Learning]() 
 12. [Algorithmic Trading]()
 13. [Blockchain Using Python]()

@@ -16,7 +16,7 @@ This repo contains all Assignments and Projects from the Columbia Engineereing F
 5. [Data Visualization](https://github.com/HyuntaeKim0813/05-Data-Visualization.git)
 6. [SQL](https://github.com/HyuntaeKim0813/06-SQL.git)
 7. [Time Series Analysis](https://github.com/HyuntaeKim0813/07-Time-Series.git)
-8. [Machine Learning]() 
+8. [Machine Learning](https://github.com/HyuntaeKim0813/08-Machine-Learning.git) 
 9. [Natural Language Processing]()
 10. [AWX-Lex]()
 11. [Deep Learning]() 

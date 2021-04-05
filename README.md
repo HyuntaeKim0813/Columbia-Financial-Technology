@@ -1,8 +1,3 @@
-<p align="center"><img width=100% src="columbia_engineering.png"></p>
-
-<p align="center" style="color:DodgerBlue; font-family:cambria; font-variant: normal; font-size:1000pt">Columbia | FinTech | Program
-</p>
-
 ## **Overview**
 This repo contains all Assignments and Projects from the Columbia Engineereing Fintech Program
 
@@ -27,6 +22,6 @@ This repo contains all Assignments and Projects from the Columbia Engineereing F
 16. [Decentralized Apps]()
 
 ## Projects-Hyuntae Kim-Portfolio
-1. [Stock Analyzer]()
+1. [Stock Analyzer](https://github.com/HyuntaeKim0813/01-Project.git)
 2. [Trading using Machine Learning Algorithms]()
 3. []()

@@ -23,5 +23,5 @@ This repo contains all Assignments and Projects from the Columbia Engineereing F
 
 ## Projects-Hyuntae Kim-Portfolio
 1. [Stock Analyzer](https://github.com/HyuntaeKim0813/01-Project.git)
-2. [Trading using Machine Learning Algorithms]()
+2. [Trading using Machine Learning Algorithms](https://github.com/HyuntaeKim0813/Algorithmic-Trading-using-Machine-Learning.git)
 3. []()
